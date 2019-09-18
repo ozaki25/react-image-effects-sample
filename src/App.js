@@ -27,7 +27,6 @@ const effects = [
 
 const images = [
   'https://firebasestorage.googleapis.com/v0/b/glide-prod.appspot.com/o/img-uploads%2FwgL0JdkDmy5zVYWe8SLV%2F1d6bc1.jpeg?alt=media',
-  'https://firebasestorage.googleapis.com/v0/b/glide-prod.appspot.com/o/img-uploads%2FwgL0JdkDmy5zVYWe8SLV%2F397189.jpeg?alt=media',
   'https://firebasestorage.googleapis.com/v0/b/glide-prod.appspot.com/o/img-uploads%2FwgL0JdkDmy5zVYWe8SLV%2Fadbc39.jpeg?alt=media',
   'https://firebasestorage.googleapis.com/v0/b/glide-prod.appspot.com/o/img-uploads%2FwgL0JdkDmy5zVYWe8SLV%2Fb9dfcd.jpeg?alt=media',
   'https://firebasestorage.googleapis.com/v0/b/glide-prod.appspot.com/o/img-uploads%2FwgL0JdkDmy5zVYWe8SLV%2F62fd6d.jpeg?alt=media',
