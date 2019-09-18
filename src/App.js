@@ -7,7 +7,7 @@ const effects = [
   // 'collage',
   'colored-chalkboard',
   'colored-pencil',
-  'emboss',
+  // 'emboss',
   // 'flannel',
   'hallucination',
   // 'infrared',
